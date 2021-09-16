@@ -4,7 +4,7 @@
 
 
 
-Hi, my name is **Pooya Dehghani**, a Full-Stack JavaScript developer, experienced in building and maintaining websites and web applications and passionate about learning new skills and solving complex problems.
+Hi, my name is **Pooya Dehghani**, a Full-Stack JavaScript developer, experienced in building and maintaining websites and web applications, and passionate about learning new skills and solving complex problems.
 
 ### Languages and Tools:
 
