@@ -4,7 +4,7 @@
 
 
 
-Hi, my name is **Pooya Dehghani**, a Full-Stack JavaScript developer, experienced in building and maintaining websites and web applications, and passionate about learning new skills and solving complex problems.
+Hi, my name is **Pooya Dehghani**, a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specialized in TypeScript, JavaScript and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js).
 
 ### Languages and Tools:
 
